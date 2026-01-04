@@ -4,7 +4,7 @@
 
 ## Deliverables
 - 📄 **Report (PDF):** Netflix_Content_Analysis_Report.pdf  
-- 📊 **Tableau Dashboard:** [Paste your Tableau Public link here]
+- 📊 **Tableau Dashboard:** (https://github.com/kdokogu1-coder/netflix-content-analysis/tree/main)
 - 🖼️ **Dashboard Preview:** dashboard_preview.png (optional)
 
 ## Tools
