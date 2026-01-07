@@ -3,9 +3,9 @@
 **Summary:** Exploratory analysis of Netflix’s content catalog to identify trends in content growth, genre composition, geographic distribution, and audience targeting.
 
 ## Deliverables
-- 📄 **Report (PDF):** Netflix_Content_Analysis_Report.pdf  
-- 📊 **Tableau Dashboard:** (https://github.com/kdokogu1-coder/netflix-content-analysis/tree/main)
-- 🖼️ **Dashboard Preview:** dashboard_preview.png (optional)
+- **Report (PDF):** Netflix_Content_Analysis_Report.pdf  
+-  **Tableau Dashboard Screenshots:** Included in this repository (static preview)
+- **Dashboard Preview:** dashboard_preview.png (optional)
 
 ## Tools
 - Tableau Public
