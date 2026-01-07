@@ -1,6 +1,8 @@
 # Netflix Content Analysis Dashboard (Tableau)
 
-**Summary:** Exploratory analysis of Netflix’s content catalog to identify trends in content growth, genre composition, geographic distribution, and audience targeting.
+**Summary:**
+This project features an Exploratory data analysis of Netflix’s content catalog (~8,800 titles) to identify trends in content growth, genre composition, geographic distribution, and audience targeting. The project demonstrates data cleaning, aggregation, and dashboard-based storytelling using Tableau.
+
 
 ## Deliverables
 - **Report (PDF):** Netflix_Content_Analysis_Report.pdf  
